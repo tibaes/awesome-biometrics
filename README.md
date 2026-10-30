@@ -9,6 +9,15 @@ A curated list of biometrics related material.
 - [TFace - Framework for face recognition algorithms research](https://github.com/Tencent/TFace)
 - [STASM - Face landmarks model](http://www.milbo.users.sonic.net/stasm/)
 
+## Iris
+- [Iriscan Biometric SDK - Open-source iris and face recognition for Android, iOS and the JVM (Kotlin Multiplatform, GPL-3.0)](https://github.com/biometric-technologies/biometric-sdk)
+- [Notre Dame Open-Source Iris Recognition - Reference iris recognition pipelines and benchmark pairs (research license)](https://github.com/CVRL/OpenSourceIrisRecognition)
+- [open-iris - Worldcoin's iris recognition inference system (Python)](https://github.com/worldcoin/open-iris)
+
+## Fingerprint
+- [Biometric Converter - Fingerprint images (WSQ, JPEG 2000, PNG) to ISO/IEC 19794-2 and ANSI INCITS 378 minutiae templates, built on NIST NBIS](https://github.com/biometric-technologies/biometric-converter)
+- [NIST NBIS - Public-domain fingerprint software: MINDTCT minutiae detection, BOZORTH3 matching, NFIQ quality, WSQ codec](https://github.com/biometric-technologies/nist-biometric-image-software-nbis)
+
 ## High level frameworks
 - [**MediaPipe** - Framework for face detection, landmarks, iris and tracking](https://github.com/google/mediapipe)
 - [**OpenCV** - Computer Vision framework (Python, C++, Julia)](https://github.com/opencv/opencv)
